@@ -647,7 +647,7 @@ export default{
             height: 42px;
             background:white;
             left:41px;
-            font-family: 'Helvetica Neue';
+            font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
             top:10px;
             padding: 12px 97px;
             width: auto;
