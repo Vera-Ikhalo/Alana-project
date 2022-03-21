@@ -1,0 +1,7 @@
+<svg id="icon_chevron-double-right" data-name="icon/chevron-double-right" xmlns="http://www.w3.org/2000/svg" width="54.721" height="54.721" viewBox="0 0 54.721 54.721">
+  <rect id="placeholder" width="54.721" height="54.721" fill="none"/>
+  <g id="chevron-double-right" transform="translate(9.657 6.438)">
+    <path id="Path_682" data-name="Path 682" d="M3.972,1.972a1.609,1.609,0,0,1,2.279,0L25.564,21.285a1.609,1.609,0,0,1,0,2.279L6.251,42.878A1.611,1.611,0,0,1,3.972,40.6L22.149,22.425,3.972,4.251a1.609,1.609,0,0,1,0-2.279Z" transform="translate(-3.499 -1.499)" fill="#0086fa"/>
+    <path id="Path_683" data-name="Path 683" d="M7.972,1.972a1.609,1.609,0,0,1,2.279,0L29.564,21.285a1.609,1.609,0,0,1,0,2.279L10.251,42.878A1.611,1.611,0,1,1,7.972,40.6L26.149,22.425,7.972,4.251a1.609,1.609,0,0,1,0-2.279Z" transform="translate(5.376 -1.499)" fill="#0086fa"/>
+  </g>
+</svg>

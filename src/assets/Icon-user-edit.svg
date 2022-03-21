@@ -1,0 +1,11 @@
+<svg id="Icon_-_user-edit" data-name="Icon - user-edit" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.8" height="22.2" viewBox="0 0 31.8 22.2">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="31.8" height="22.2" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_-_user-edit-2" data-name="Icon - user-edit" clip-path="url(#clip-path)">
+    <path id="User" d="M9.45,10.8a5.4,5.4,0,1,0-5.4-5.4A5.4,5.4,0,0,0,9.45,10.8Zm3.78,1.35h-.7a7.344,7.344,0,0,1-6.151,0h-.7A5.671,5.671,0,0,0,0,17.82v1.755A2.026,2.026,0,0,0,2.025,21.6h12l-.4-4.691,2.3-3.93a6.965,6.965,0,0,0-2.7-.829Z" transform="translate(0.3 0.6)" fill="#e6e8ff"/>
+    <path id="Pencil" d="M.45,13.647.006,17.625a1.038,1.038,0,0,0,1.148,1.148l3.971-.443,8.993-8.993L9.442,4.661.45,13.647ZM18.324,2.926,15.853.455a1.563,1.563,0,0,0-2.2,0L11.183,2.92l-.267.267L15.6,7.863l2.726-2.726A1.57,1.57,0,0,0,18.324,2.926Z" transform="translate(12.079 3.901) rotate(-13)" fill="#e6e8ff"/>
+  </g>
+</svg>

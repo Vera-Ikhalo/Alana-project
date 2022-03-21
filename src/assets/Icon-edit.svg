@@ -1,0 +1,10 @@
+<svg id="Icon_-_edit" data-name="Icon - edit" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.404" height="26.112" viewBox="0 0 37.404 26.112">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_33" data-name="Rectangle 33" width="37.404" height="26.112" transform="translate(0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_-_edit-2" data-name="Icon - edit" transform="translate(0)" clip-path="url(#clip-path)">
+    <path id="Pencil" d="M.529,16.052.007,20.731a1.221,1.221,0,0,0,1.35,1.35l4.671-.522L16.606,10.982l-5.5-5.5L.529,16.052ZM21.553,3.442,18.646.535a1.838,1.838,0,0,0-2.593,0l-2.9,2.9-.314.314,5.507,5.5,3.206-3.206A1.847,1.847,0,0,0,21.553,3.442Z" transform="translate(5.333 4.969) rotate(-13)" fill="#707070"/>
+  </g>
+</svg>
